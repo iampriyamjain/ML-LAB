@@ -1,0 +1,14 @@
+Machine Learning Tools
+1. Weka : Used for data preproccessing and implementation of Machine Learning Algorithms and visualization tools and apply them into data mining problems
+2. Python and its libraries : PyTorch:
+                              PyTorch is the largest machine learning library that optimizes tensor computations. 
+                              It has rich APIs to perform tensor computations with strong GPU acceleration. It also helps to solve application issues related to neural networks.
+                              TensorFlow: 
+                              It is an open-source library used for high-level computations.
+                              It is also used in machine learning and deep learning algorithms. It contains a large number of tensor operations.
+
+3. R Studio
+4. Cogno's : a business intelligence tool for web-based reporting and analytics,
+5. SPSS
+6. SAS : Statistical Analysis Software, used for statistical data analysis and visualization. Widely used analytical tool in the commercial analytics market. 
+         Can Read and write almost any data format, Powerful data handling language, Ability to handle a large database with ease
